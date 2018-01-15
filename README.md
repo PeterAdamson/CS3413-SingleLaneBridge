@@ -1,0 +1,2 @@
+# CS3413-SingleLaneBridge
+A multithreaded c program that simulates a single lane bridge where cars are crossing in both directions.  Cars can only cross in one direction at a time and if a car arrives when another car is already crossing in the opposite direction, it must wait.  If a car arrives and a car is already crossing in the same direction, up to three cars can enter the bridge in the same direction at one time.  
